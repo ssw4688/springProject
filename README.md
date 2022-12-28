@@ -30,4 +30,4 @@
 다음부터는 기획을 좀 더 꼼꼼하게 해서 프로젝트 수행을 좀 더 효율적으로 할 것이다.
 
 ## ERD
-
+![3차 spring 프로젝트](https://raw.githubusercontent.com/ssw4688/springProject/3e2be2d18d5e9fc3cff2cdf971ec670249df8909/ERD-001%20(3).png)
